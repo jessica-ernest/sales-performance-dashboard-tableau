@@ -26,7 +26,7 @@ needed strategic attention.
 ### The Objective
 Design and deliver a comprehensive Tableau dashboard that gives 
 Smart Insights Co. a complete, interactive view of their 2023 sales 
-performance — enabling data-driven regional and product-based strategy.
+performance enabling data-driven regional and product-based strategy.
 
 **Specific goals:**
 - Track Total Sales, Total Profit and Total Quantity with YoY comparison
@@ -190,4 +190,4 @@ Geographic Mapping · Data Relationships · Dashboard Design
 ---
 
 ## 📸 Screenshots
-![Sales Dashboard 2023](sales-dashboard.png)
+![Sales Dashboard 2023](https://raw.githubusercontent.com/jessica-ernest/sales-performance-dashboard-tableau/main/Sales%20Performance%20Dashboard%20%E2%80%94%20Tableau.png)
